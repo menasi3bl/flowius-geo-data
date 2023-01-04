@@ -1,169 +1,3417 @@
 {
-"type": "FeatureCollection",
-"name": "Wita-Pipes",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
-"features": [
-{ "type": "Feature", "properties": { "id": "L2", "length": 13.244100675863695, "diameter": 50.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S6", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280161.713446754962206, 911181.532279090723023 ], [ 4280164.374771224334836, 911194.506235880427994 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L3", "length": 35.506886637061797, "diameter": 50.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S6", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280164.374771224334836, 911194.506235880427994 ], [ 4280129.112222000956535, 911198.664555363822728 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L4", "length": 105.27853223811287, "diameter": 50.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S6", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280129.112222000956535, 911198.664555363822728 ], [ 4280025.32056768424809, 911216.295829974929802 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L7", "length": 86.802765338008214, "diameter": 50.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S6", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279849.340487121604383, 911254.219703667447902 ], [ 4279763.512772975489497, 911267.193660457036458 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L8", "length": 94.753055812491326, "diameter": 50.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S6", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279763.512772975489497, 911267.193660457036458 ], [ 4279671.031747655011714, 911287.818925097235478 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L9", "length": 209.42717108829328, "diameter": 50.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S6", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279671.031747655011714, 911287.818925097235478 ], [ 4279710.951614700257778, 911493.406240379903466 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L12", "length": 81.024553701172763, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S6", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279982.074045049957931, 911436.187764282105491 ], [ 4280061.913779142312706, 911422.382143595721573 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L13", "length": 209.30989414411823, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S6", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280025.32056768424809, 911216.295829974929802 ], [ 4280061.913779142312706, 911422.382143595721573 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L15", "length": 85.075273665494663, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S6", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280165.0401023440063, 911403.919205087935552 ], [ 4280248.539157580584288, 911387.618592711165547 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L16", "length": 85.734826981241326, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S6", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280248.539157580584288, 911387.618592711165547 ], [ 4280332.370878373272717, 911369.654652540921234 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L17", "length": 212.32820684125645, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S6", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280332.370878373272717, 911369.654652540921234 ], [ 4280294.447004680521786, 911160.740681671188213 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L18", "length": 89.85229009903459, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S6", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280294.447004680521786, 911160.740681671188213 ], [ 4280208.86878970451653, 911188.123215475818142 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L19", "length": 80.450170531124343, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S6", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280208.86878970451653, 911188.123215475818142 ], [ 4280129.112222000956535, 911198.664555363822728 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L20", "length": 208.37534359734778, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S6", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280129.112222000956535, 911198.664555363822728 ], [ 4280165.0401023440063, 911403.919205087935552 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L21", "length": 44.949534257880984, "diameter": 50.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S6", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280164.374771224334836, 911194.506235880427994 ], [ 4280208.86878970451653, 911188.123215475818142 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L22", "length": 203.40143466970954, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S6", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280208.86878970451653, 911188.123215475818142 ], [ 4280248.539157580584288, 911387.618592711165547 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L23", "length": 97.282353495022974, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S6", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279982.074045049957931, 911436.187764282105491 ], [ 4279886.93169525731355, 911456.480363363167271 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L24", "length": 205.72426543713752, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S6", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279886.93169525731355, 911456.480363363167271 ], [ 4279849.340487121604383, 911254.219703667447902 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L26", "length": 207.72826608647185, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S6", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279763.512772975489497, 911267.193660457036458 ], [ 4279804.763302255421877, 911470.784982387558557 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L27", "length": 125.12647969644875, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S6", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279590.526682447642088, 911329.7347854943946 ], [ 4279466.10976349003613, 911316.428163146018051 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L28", "length": 181.69905340765624, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S6", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279627.119893905706704, 911507.710859404411167 ], [ 4279590.526682447642088, 911329.7347854943946 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L29", "length": 31.153556772250479, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S6", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279590.526682447642088, 911329.7347854943946 ], [ 4279586.86736130155623, 911298.7968885343289 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L30", "length": 53.628329511814179, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S6", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279586.86736130155623, 911298.7968885343289 ], [ 4279576.222063423134387, 911246.235730258398689 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L31", "length": 66.2338714694841, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S6", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279671.031747655011714, 911287.818925097235478 ], [ 4279659.388453099876642, 911222.616475590039045 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L32", "length": 85.779993029102414, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S6", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279659.388453099876642, 911222.616475590039045 ], [ 4279637.099860666319728, 911139.78275147115346 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L33", "length": 60.079989340770894, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S6", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279763.512772975489497, 911267.193660457036458 ], [ 4279755.528799565508962, 911207.64652544807177 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L34", "length": 82.488138775328437, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S6", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280025.32056768424809, 911216.295829974929802 ], [ 4279944.711544492281973, 911233.802355005755089 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L35", "length": 97.532080416518369, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S6", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279944.711544492281973, 911233.802355005755089 ], [ 4279849.340487121604383, 911254.219703667447902 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L36", "length": 205.80527285732549, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S6", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279944.711544492281973, 911233.802355005755089 ], [ 4279982.074045049957931, 911436.187764282105491 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L37", "length": 82.593992361217616, "diameter": 50.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S6", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280025.32056768424809, 911216.295829974929802 ], [ 4279977.063270078040659, 911224.67484373843763 ], [ 4279944.711544492281973, 911233.802355005755089 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L38", "length": 97.62214464627472, "diameter": 50.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S6", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279944.711544492281973, 911233.802355005755089 ], [ 4279896.724537651054561, 911241.931869596242905 ], [ 4279849.340487121604383, 911254.219703667447902 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L39", "length": 205.85376813439152, "diameter": 50.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S6", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279944.711544492281973, 911233.802355005755089 ], [ 4279964.609103226102889, 911353.686705724103376 ], [ 4279982.074045049957931, 911436.187764282105491 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L40", "length": 209.48839297369796, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S6", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279671.031747655011714, 911287.818925097235478 ], [ 4279693.611422467045486, 911390.820498714921996 ], [ 4279710.951614700257778, 911493.406240379903466 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L41", "length": 84.877320949001941, "diameter": 38.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S6", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279671.031747655011714, 911287.818925097235478 ], [ 4279586.86736130155623, 911298.7968885343289 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L42", "length": 94.850770441088756, "diameter": 38.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S6", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279671.031747655011714, 911287.818925097235478 ], [ 4279716.149514071643353, 911275.551882623578422 ], [ 4279763.512772975489497, 911267.193660457036458 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L43", "length": 96.500539040483901, "diameter": 38.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S6", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279710.951614700257778, 911493.406240379903466 ], [ 4279804.763302255421877, 911470.784982387558557 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L44", "length": 85.043397961346031, "diameter": 38.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S6", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279710.951614700257778, 911493.406240379903466 ], [ 4279627.119893905706704, 911507.710859404411167 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L45", "length": 96.429993465162099, "diameter": 50.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S1", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280020.368207206949592, 911653.555004615103826 ], [ 4279925.241698632948101, 911669.356618653284386 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L46", "length": 85.683853099397979, "diameter": 50.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S1", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279925.241698632948101, 911669.356618653284386 ], [ 4279841.283248103223741, 911686.465133100980893 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L47", "length": 95.287916438798476, "diameter": 50.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S1", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279841.283248103223741, 911686.465133100980893 ], [ 4279747.661655152216554, 911704.20729623187799 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L48", "length": 85.636394665430956, "diameter": 50.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S1", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279747.661655152216554, 911704.20729623187799 ], [ 4279664.020028963685036, 911722.583108046092093 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L49", "length": 80.341680638705014, "diameter": 25.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S1", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279664.020028963685036, 911722.583108046092093 ], [ 4279648.812460565939546, 911643.693846981739625 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L50", "length": 89.622656894860171, "diameter": 25.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S1", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279664.020028963685036, 911722.583108046092093 ], [ 4279683.663138144649565, 911810.026626334176399 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L51", "length": 88.910868328680479, "diameter": 25.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S1", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279747.661655152216554, 911704.20729623187799 ], [ 4279768.25523735769093, 911790.700341495103203 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L52", "length": 75.321614015609114, "diameter": 25.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S1", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279747.661655152216554, 911704.20729623187799 ], [ 4279734.355032804422081, 911630.070400291937403 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L53", "length": 76.774193419303131, "diameter": 25.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S1", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279841.283248103223741, 911686.465133100980893 ], [ 4279828.610274438746274, 911610.744115452747792 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L54", "length": 75.066645525809591, "diameter": 25.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S1", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279925.241698632948101, 911669.356618653284386 ], [ 4279911.618251943960786, 911595.536547054769471 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L56", "length": 14.383266817944447, "diameter": 25.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S1", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279892.133554933592677, 911898.737441988894716 ], [ 4279894.034500982612371, 911912.994537361897528 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L57", "length": 60.70556117910413, "diameter": 25.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S1", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279894.034500982612371, 911912.994537361897528 ], [ 4279953.597477207891643, 911924.717038001981564 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L58", "length": 40.087983134111695, "diameter": 25.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S1", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279953.597477207891643, 911924.717038001981564 ], [ 4279991.933222544379532, 911936.4395386420656 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L59", "length": 50.495479073192627, "diameter": 25.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S1", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279991.933222544379532, 911936.4395386420656 ], [ 4279988.448154786601663, 911886.064468323951587 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L60", "length": 10.532920417517568, "diameter": 25.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S1", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279988.448154786601663, 911886.064468323951587 ], [ 4279978.151363683864474, 911888.282238715211861 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L61", "length": 225.22846129052959, "diameter": 25.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S1", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279978.151363683864474, 911888.282238715211861 ], [ 4279925.241698632948101, 911669.356618653284386 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L62", "length": 218.27800353070066, "diameter": 25.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S1", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279841.283248103223741, 911686.465133100980893 ], [ 4279892.133554933592677, 911898.737441988894716 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L63", "length": 69.140391132307343, "diameter": 25.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S1", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279953.597477207891643, 911924.717038001981564 ], [ 4279955.736041512340307, 911993.824347518733703 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L64", "length": 28.738604956437072, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S1", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279892.133554933592677, 911898.737441988894716 ], [ 4279864.253012870438397, 911905.707577504566871 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L65", "length": 140.75026122607764, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S1", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279955.736041512340307, 911993.824347518733703 ], [ 4279950.983676388859749, 912134.494355199625716 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L66", "length": 129.47886397250392, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S1", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279683.663138144649565, 911810.026626334176399 ], [ 4279715.662396647967398, 911935.489065617206506 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L67", "length": 85.310506318031898, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S1", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279715.662396647967398, 911935.489065617206506 ], [ 4279799.304022837430239, 911918.697375511052087 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L68", "length": 131.70902701275583, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S1", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279799.304022837430239, 911918.697375511052087 ], [ 4279768.25523735769093, 911790.700341495103203 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L69", "length": 55.721987730418057, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S1", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279660.772579463198781, 911722.305886747082695 ], [ 4279606.357998788356781, 911734.305608685943298 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L70", "length": 72.541013423048, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S1", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279606.357998788356781, 911734.305608685943298 ], [ 4279584.180294875055552, 911665.23790221195668 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L71", "length": 133.21634748106672, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S1", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279648.812460565939546, 911643.693846981739625 ], [ 4279625.525871457532048, 911512.528569549438544 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L72", "length": 86.679833761593628, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S1", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279625.525871457532048, 911512.528569549438544 ], [ 4279711.226855866611004, 911499.538771542836912 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L73", "length": 132.56477161131343, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S1", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279711.226855866611004, 911499.538771542836912 ], [ 4279734.355032804422081, 911630.070400291937403 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L74", "length": 135.42339640758334, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S1", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279828.610274438746274, 911610.744115452747792 ], [ 4279805.878127926960588, 911477.242258501122706 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L75", "length": 83.369512678369631, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S1", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279805.878127926960588, 911477.242258501122706 ], [ 4279887.93563240673393, 911462.509926615748554 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L76", "length": 135.11827490599626, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S1", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279887.93563240673393, 911462.509926615748554 ], [ 4279911.618251943960786, 911595.536547054769471 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L77", "length": 132.3249017055681, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S2", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280037.793545990251005, 911741.156935074017383 ], [ 4280068.84233146905899, 911869.787617773283273 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L78", "length": 78.842805263686699, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S2", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280068.84233146905899, 911869.787617773283273 ], [ 4280145.513822142034769, 911851.41180595906917 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L79", "length": 129.61949431883676, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S2", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280145.513822142034769, 911851.41180595906917 ], [ 4280121.435172178782523, 911724.048420626320876 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L80", "length": 131.77759967489942, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S2", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280218.383420715108514, 911705.038960128906183 ], [ 4280240.561124629341066, 911834.936940194689669 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L81", "length": 87.772245338878349, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S2", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280240.561124629341066, 911834.936940194689669 ], [ 4280325.731219999492168, 911821.550778786884621 ], [ 4280326.737345551140606, 911820.363020479911938 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L82", "length": 131.15303244173759, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S2", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280326.737345551140606, 911820.363020479911938 ], [ 4280304.559641636908054, 911691.098689097445458 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L84", "length": 138.16347738986366, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S2", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280064.723615034483373, 911427.976073378929868 ], [ 4280090.386386699974537, 911563.735303764580749 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L85", "length": 133.96884598973523, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S2", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280186.067337869666517, 911542.824897217447869 ], [ 4280162.939160937443376, 911410.867558931116946 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L86", "length": 87.299336177864177, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S2", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280162.939160937443376, 911410.867558931116946 ], [ 4280248.48173317592591, 911393.442220141878352 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L87", "length": 135.0811456758052, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S2", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280248.48173317592591, 911393.442220141878352 ], [ 4280247.93271800596267, 911396.040604620939121 ], [ 4280274.77815352473408, 911525.716382769751363 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L88", "length": 427.02825325114424, "diameter": 50.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S2", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280025.32056768424809, 911216.295829974929802 ], [ 4280103.376184712164104, 911636.129665825632401 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L89", "length": 84.819679028648096, "diameter": 50.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S2", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280103.376184712164104, 911636.129665825632401 ], [ 4280022.277369111776352, 911653.251978557324037 ], [ 4280020.368207206949592, 911653.555004615103826 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L90", "length": 99.477293644568562, "diameter": 50.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S2", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280103.376184712164104, 911636.129665825632401 ], [ 4280200.958081932738423, 911616.803380986559205 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L91", "length": 87.507777876837835, "diameter": 50.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S2", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280200.958081932738423, 911616.803380986559205 ], [ 4280287.134302854537964, 911601.595812588580884 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L92", "length": 221.10740117079777, "diameter": 50.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S2", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280103.376184712164104, 911636.129665825632401 ], [ 4280146.789703775197268, 911852.933146459748968 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L93", "length": 89.754300587899763, "diameter": 25.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S2", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280103.376184712164104, 911636.129665825632401 ], [ 4280121.435172178782523, 911724.048420626320876 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L94", "length": 89.318198883772595, "diameter": 25.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S2", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280020.368207206949592, 911653.555004615103826 ], [ 4280037.793545990251005, 911741.156935074017383 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L95", "length": 77.716468536495753, "diameter": 25.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S2", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280020.368207206949592, 911653.555004615103826 ], [ 4280006.744760510511696, 911577.041926112840883 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L96", "length": 73.550516725745155, "diameter": 25.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S2", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280103.376184712164104, 911636.129665825632401 ], [ 4280090.386386699974537, 911563.735303764580749 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L97", "length": 75.462244331377931, "diameter": 25.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S2", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280200.958081932738423, 911616.803380986559205 ], [ 4280186.067337869666517, 911542.824897217447869 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L98", "length": 89.939756827922025, "diameter": 25.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S2", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280200.958081932738423, 911616.803380986559205 ], [ 4280218.383420715108514, 911705.038960128906183 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L99", "length": 91.183372031535626, "diameter": 25.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S2", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280287.134302854537964, 911601.595812588580884 ], [ 4280304.559641636908054, 911691.098689097445458 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L100", "length": 76.878880688333965, "diameter": 25.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S2", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280287.134302854537964, 911601.595812588580884 ], [ 4280274.77815352473408, 911525.716382769751363 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L101", "length": 137.34956419408275, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S2", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280006.744760510511696, 911577.041926112840883 ], [ 4279980.44834016263485, 911442.233168751932681 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L102", "length": 85.472725025007364, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S2", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279980.44834016263485, 911442.233168751932681 ], [ 4280064.723615034483373, 911427.976073378929868 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L103", "length": 35.217416280488351, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S1", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4279925.241698632948101, 911669.356618653284386 ], [ 4279890.391021055169404, 911674.42580811935477 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L104", "length": 210.59740966942945, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S4", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280244.906118117272854, 911841.037616579327732 ], [ 4280280.629920056089759, 912048.582982546649873 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L105", "length": 209.4076474322211, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S4", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280326.934417494572699, 911827.269067916320637 ], [ 4280364.382389038801193, 912033.301133940811269 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L106", "length": 212.94495168410623, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S4", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280416.777298544533551, 911810.821234108647332 ], [ 4280454.485756141133606, 912020.400872130645439 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L107", "length": 213.60095722509359, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S4", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280508.071459045633674, 911792.562402007984929 ], [ 4280540.222880787216127, 912003.729764560703188 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L108", "length": 214.09716159241879, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S4", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280591.030065761879086, 911778.272881233831868 ], [ 4280621.196831841021776, 911990.234106051619165 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L109", "length": 91.02215948849215, "diameter": 38.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S4", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280454.485756141133606, 912020.400872130645439 ], [ 4280364.382389038801193, 912033.301133940811269 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L110", "length": 85.135250968748622, "diameter": 38.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S4", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280364.382389038801193, 912033.301133940811269 ], [ 4280280.629920056089759, 912048.582982546649873 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L111", "length": 87.342889637259404, "diameter": 38.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S4", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280454.485756141133606, 912020.400872130645439 ], [ 4280540.222880787216127, 912003.729764560703188 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L112", "length": 82.090885900067647, "diameter": 38.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S4", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280540.222880787216127, 912003.729764560703188 ], [ 4280621.196831841021776, 911990.234106051619165 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L113", "length": 93.102141174522998, "diameter": 38.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S4", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280416.777298544533551, 911810.821234108647332 ], [ 4280508.071459045633674, 911792.562402007984929 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L114", "length": 84.180287670306939, "diameter": 38.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S4", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280508.071459045633674, 911792.562402007984929 ], [ 4280591.030065761879086, 911778.272881233831868 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L115", "length": 91.336052642547756, "diameter": 38.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S4", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280416.777298544533551, 911810.821234108647332 ], [ 4280326.934417494572699, 911827.269067916320637 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L116", "length": 83.175806765053522, "diameter": 38.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S4", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280326.934417494572699, 911827.269067916320637 ], [ 4280244.906118117272854, 911841.037616579327732 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L117", "length": 213.03549649713062, "diameter": 38.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S4", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280416.777298544533551, 911810.821234108647332 ], [ 4280438.286004287190735, 911912.832535191206262 ], [ 4280454.485756141133606, 912020.400872130645439 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L118", "length": 208.60237218752269, "diameter": 38.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S4", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280146.789703775197268, 911852.933146459748968 ], [ 4280183.828340090811253, 912058.220966610242613 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L119", "length": 98.301255746273441, "diameter": 50.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S4", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280146.789703775197268, 911852.933146459748968 ], [ 4280243.479646865278482, 911835.207690569106489 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L120", "length": 3.4446785082229061, "diameter": 50.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S4", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280243.479646865278482, 911835.207690569106489 ], [ 4280244.174276345409453, 911838.581605196115561 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L121", "length": 174.82116998574645, "diameter": 50.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S4", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280244.174276345409453, 911838.581605196115561 ], [ 4280416.777298544533551, 911810.821234108647332 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L122", "length": 77.058829646649215, "diameter": 25.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S4", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280183.828340090811253, 912058.220966610242613 ], [ 4280169.563627505674958, 911982.493948965449817 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L123", "length": 83.398055341957118, "diameter": 25.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S4", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280183.828340090811253, 912058.220966610242613 ], [ 4280198.117860865779221, 912140.38571106211748 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L124", "length": 25.057014612410679, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S4", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280183.828340090811253, 912058.220966610242613 ], [ 4280158.821678736247122, 912059.808691140729934 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L125", "length": 48.425598179339431, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S4", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280158.821678736247122, 912059.808691140729934 ], [ 4280158.821678736247122, 912108.234289320069365 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L126", "length": 59.190670748951035, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S4", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280158.821678736247122, 912108.234289320069365 ], [ 4280161.203265531919897, 912167.377028080169111 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L127", "length": 225.75996853435362, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S4", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280198.117860865779221, 912140.38571106211748 ], [ 4280220.346004289574921, 912365.048732123803347 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L128", "length": 74.088620715291754, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S4", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280169.563627505674958, 911982.493948965449817 ], [ 4280154.97640838380903, 911909.855551696615294 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L129", "length": 134.95016399252415, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S3", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280392.589307639747858, 911672.441117999376729 ], [ 4280415.611313332803547, 911805.413047426147386 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L130", "length": 87.585172736585534, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S3", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280415.611313332803547, 911805.413047426147386 ], [ 4280501.745369111187756, 911789.535802121507004 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L131", "length": 136.71094209831472, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S3", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280501.745369111187756, 911789.535802121507004 ], [ 4280479.914156815968454, 911654.579217031598091 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L132", "length": 137.71679950225445, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S3", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280569.223661654628813, 911636.320384931168519 ], [ 4280594.627254143357277, 911771.673901153728366 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L133", "length": 22.007316784962278, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S3", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280594.627254143357277, 911771.673901153728366 ], [ 4280616.458466436713934, 911768.895383225753903 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L134", "length": 60.266904949015576, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S3", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280616.458466436713934, 911768.895383225753903 ], [ 4280674.807342931628227, 911783.978766265208833 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L135", "length": 165.93430528233858, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S3", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280674.807342931628227, 911783.978766265208833 ], [ 4280651.78533723950386, 911619.649277361226268 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L136", "length": 88.436398872789667, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S3", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280674.807342931628227, 911783.978766265208833 ], [ 4280761.338329843245447, 911765.719934164313599 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L137", "length": 160.71397954231162, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S3", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280761.338329843245447, 911765.719934164313599 ], [ 4280739.110186414793134, 911606.550549984909594 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L139", "length": 76.624159932890194, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S3", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280518.416476679965854, 911333.858861876418814 ], [ 4280594.230323010124266, 911322.74479016312398 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L140", "length": 138.49711614454583, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S3", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280594.230323010124266, 911322.74479016312398 ], [ 4280619.633915496990085, 911458.892168650985695 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L141", "length": 134.98693523432354, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S3", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280365.597990621812642, 911505.730042299837805 ], [ 4280340.194398134946823, 911373.155044005601667 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L142", "length": 80.397908542967045, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S3", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280340.194398134946823, 911373.155044005601667 ], [ 4280419.977555790916085, 911363.23176569014322 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L143", "length": 129.15885329213609, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S3", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280419.977555790916085, 911363.23176569014322 ], [ 4280443.396492614410818, 911490.249728127731942 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L144", "length": 245.33105658892606, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S3", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280594.230323010124266, 911322.74479016312398 ], [ 4280562.872763531282544, 911079.426005868590437 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L145", "length": 67.855490314472689, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S3", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280562.872763531282544, 911079.426005868590437 ], [ 4280630.351056076586246, 911072.281245481572114 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L146", "length": 78.392642571217607, "diameter": 25.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S3", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280380.284442529082298, 911582.734682028065436 ], [ 4280365.597990621812642, 911505.730042299837805 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L147", "length": 90.546421022957318, "diameter": 25.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S3", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280380.284442529082298, 911582.734682028065436 ], [ 4280392.589307639747858, 911672.441117999376729 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L148", "length": 90.535980185848771, "diameter": 25.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S3", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280462.846118113026023, 911565.666643325472251 ], [ 4280479.914156815968454, 911654.579217031598091 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L149", "length": 77.884523687184057, "diameter": 25.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S3", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280462.846118113026023, 911565.666643325472251 ], [ 4280443.396492614410818, 911490.249728127731942 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L153", "length": 88.295543840831854, "diameter": 25.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S3", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280553.74334748275578, 911549.392466888180934 ], [ 4280569.223661654628813, 911636.320384931168519 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L154", "length": 87.030262402891395, "diameter": 25.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S3", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280634.71729853656143, 911534.309083848726004 ], [ 4280651.78533723950386, 911619.649277361226268 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L155", "length": 76.910464449654583, "diameter": 25.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S3", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280634.71729853656143, 911534.309083848726004 ], [ 4280619.633915496990085, 911458.892168650985695 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L156", "length": 88.094570430236828, "diameter": 25.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S3", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280724.820665642619133, 911519.622631941339932 ], [ 4280739.110186414793134, 911606.550549984909594 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L157", "length": 95.040469103471537, "diameter": 50.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S3", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280287.134302854537964, 911601.595812588580884 ], [ 4280380.284442529082298, 911582.734682028065436 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L158", "length": 84.30746242404399, "diameter": 50.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S3", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280380.284442529082298, 911582.734682028065436 ], [ 4280462.846118113026023, 911565.666643325472251 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L159", "length": 92.342596486157731, "diameter": 50.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S3", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280462.846118113026023, 911565.666643325472251 ], [ 4280553.74334748275578, 911549.392466888180934 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L160", "length": 82.36679666697637, "diameter": 50.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S3", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280553.74334748275578, 911549.392466888180934 ], [ 4280634.71729853656143, 911534.309083848726004 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L161", "length": 91.292434700127075, "diameter": 50.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S3", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280634.71729853656143, 911534.309083848726004 ], [ 4280724.820665642619133, 911519.622631941339932 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L162", "length": 136.45211316179558, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S3", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280539.850757838226855, 911468.616981400060467 ], [ 4280518.416476679965854, 911333.858861876418814 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L163", "length": 81.961473283932818, "diameter": 25.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S3", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280553.74334748275578, 911549.392466888180934 ], [ 4280539.850757838226855, 911468.616981400060467 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L164", "length": 166.36529250402825, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S5", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4281109.248467582277954, 911675.517334277043119 ], [ 4280946.506703209131956, 911710.050342814764008 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L165", "length": 258.11269056219271, "diameter": 21.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S5", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4281259.48690127581358, 911409.871173772611655 ], [ 4281507.965790294110775, 911340.011294431984425 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L166", "length": 264.19278185615809, "diameter": 38.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S5", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4281002.275527339428663, 911470.204705930547789 ], [ 4281259.48690127581358, 911409.871173772611655 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L167", "length": 275.91168123974046, "diameter": 38.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S5", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280952.857601331546903, 912239.953404859290458 ], [ 4281018.748169345781207, 912507.881919376319274 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L168", "length": 184.13497911486465, "diameter": 38.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S5", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4281018.748169345781207, 912507.881919376319274 ], [ 4281201.336490349844098, 912484.066051419242285 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L169", "length": 231.50914734140926, "diameter": 50.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S5", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4281002.275527339428663, 911470.204705930547789 ], [ 4281109.248467582277954, 911675.517334277043119 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L170", "length": 271.99370981557723, "diameter": 50.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S5", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4281109.248467582277954, 911675.517334277043119 ], [ 4281212.450562061741948, 911927.171672356664203 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L171", "length": 393.53675038395932, "diameter": 50.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S5", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4281212.450562061741948, 911927.171672356664203 ], [ 4280835.762917207553983, 912041.090907418052666 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L172", "length": 70.654856571598202, "diameter": 50.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S5", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280835.762917207553983, 912041.090907418052666 ], [ 4280877.837617264129221, 912097.852059382246807 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L173", "length": 65.514081658127125, "diameter": 50.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S5", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280877.837617264129221, 912097.852059382246807 ], [ 4280933.011044697836041, 912133.178930185153149 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L174", "length": 108.60328840395711, "diameter": 50.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S5", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280933.011044697836041, 912133.178930185153149 ], [ 4280952.857601331546903, 912239.953404859290458 ] ] ] } },
-{ "type": "Feature", "properties": { "id": "L175", "length": 281.82145356662227, "diameter": 50.0, "status": "Open", "roughness": 150.0, "minor_loss": 0.0, "material": "Plastic", "descriptio": "S5", "tag": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4280724.820665642619133, 911519.622631941339932 ], [ 4281002.275527339428663, 911470.204705930547789 ] ] ] } }
-]
+  "type": "FeatureCollection",
+  "name": "Wita-Pipes",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L2",
+        "length": 13.244100675863695,
+        "diameter": 50,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S6",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44934685692418, 8.157581926084882],
+          [38.449370764008655, 8.15769729383]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L3",
+        "length": 35.5068866370618,
+        "diameter": 50,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S6",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.449370764008655, 8.15769729383],
+          [38.44905399513941, 8.157734270664335]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L4",
+        "length": 105.27853223811287,
+        "diameter": 50,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S6",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44905399513941, 8.157734270664335],
+          [38.448121618845036, 8.157891052403906]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L7",
+        "length": 86.80276533800821,
+        "diameter": 50,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S6",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44654076288434, 8.158228280842906],
+          [38.445769759410155, 8.158343648401452]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L8",
+        "length": 94.75305581249133,
+        "diameter": 50,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S6",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.445769759410155, 8.158343648401452],
+          [38.44493898822479, 8.158527053169564]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L9",
+        "length": 209.42717108829328,
+        "diameter": 50,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S6",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44493898822479, 8.158527053169564],
+          [38.44529759449186, 8.160355179966842]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L12",
+        "length": 81.02455370117276,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S6",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44773312872237, 8.15984638176287],
+          [38.44845034125652, 8.159723619308497]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L13",
+        "length": 209.30989414411823,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S6",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.448121618845036, 8.157891052403906],
+          [38.44845034125652, 8.159723619308497]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L15",
+        "length": 85.07527366549466,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S6",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44937674077979, 8.15955944295515],
+          [38.450126825555074, 8.159414494406944]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L16",
+        "length": 85.73482698124133,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S6",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.450126825555074, 8.159414494406944],
+          [38.4508798987159, 8.15925475512966]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L17",
+        "length": 212.32820684125645,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S6",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.4508798987159, 8.15925475512966],
+          [38.45053922276219, 8.157397041808531]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L18",
+        "length": 89.85229009903459,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S6",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45053922276219, 8.157397041808531],
+          [38.44977046057718, 8.157640534382669]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L19",
+        "length": 80.45017053112434,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S6",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44977046057718, 8.157640534382669],
+          [38.44905399513941, 8.157734270664335]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L20",
+        "length": 208.37534359734778,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S6",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44905399513941, 8.157734270664335],
+          [38.44937674077979, 8.15955944295515]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L21",
+        "length": 44.949534257880984,
+        "diameter": 50,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S6",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.449370764008655, 8.15769729383],
+          [38.44977046057718, 8.157640534382669]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L22",
+        "length": 203.40143466970954,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S6",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44977046057718, 8.157640534382669],
+          [38.450126825555074, 8.159414494406944]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L23",
+        "length": 97.28235349502297,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S6",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44773312872237, 8.15984638176287],
+          [38.44687845045251, 8.160026827711672]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L24",
+        "length": 205.72426543713752,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S6",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44687845045251, 8.160026827711672],
+          [38.44654076288434, 8.158228280842906]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L26",
+        "length": 207.72826608647185,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S6",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.445769759410155, 8.158343648401452],
+          [38.44614031921946, 8.160154027265964]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L27",
+        "length": 125.12647969644875,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S6",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44421579891954, 8.158899778729294],
+          [38.443098142720515, 8.158781453192429]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L28",
+        "length": 181.69905340765624,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S6",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.444544521331025, 8.160482379416608],
+          [38.44421579891954, 8.158899778729294]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L29",
+        "length": 31.15355677225048,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S6",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44421579891954, 8.158899778729294],
+          [38.444182926678394, 8.158624671802132]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L30",
+        "length": 53.62832951181418,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S6",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.444182926678394, 8.158624671802132],
+          [38.444087298340506, 8.158157285405714]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L31",
+        "length": 66.2338714694841,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S6",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44493898822479, 8.158527053169564],
+          [38.44483439473023, 8.157947257163492]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L32",
+        "length": 85.77999302910241,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S6",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44483439473023, 8.157947257163492],
+          [38.444634172897786, 8.157210678371397]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L33",
+        "length": 60.079989340770894,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S6",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.445769759410155, 8.158343648401452],
+          [38.445698038156735, 8.157814140614823]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L34",
+        "length": 82.48813877532844,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S6",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.448121618845036, 8.157891052403906],
+          [38.44739749566933, 8.158046724777913]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L35",
+        "length": 97.53208041651837,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S6",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44739749566933, 8.158046724777913],
+          [38.44654076288434, 8.158228280842906]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L36",
+        "length": 205.8052728573255,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S6",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44739749566933, 8.158046724777913],
+          [38.44773312872237, 8.15984638176287]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L37",
+        "length": 82.59399236121762,
+        "diameter": 50,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S6",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.448121618845036, 8.157891052403906],
+          [38.44768811616494, 8.157965560685513],
+          [38.44739749566933, 8.158046724777913]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L38",
+        "length": 97.62214464627472,
+        "diameter": 50,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S6",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44739749566933, 8.158046724777913],
+          [38.44696642105248, 8.158119014422649],
+          [38.44654076288434, 8.158228280842906]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L39",
+        "length": 205.85376813439152,
+        "diameter": 50,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S6",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44739749566933, 8.158046724777913],
+          [38.44757623848059, 8.159112764607368],
+          [38.44773312872237, 8.15984638176287]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L40",
+        "length": 209.48839297369796,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S6",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44493898822479, 8.158527053169564],
+          [38.44514182489473, 8.15944296644736],
+          [38.44529759449186, 8.160355179966842]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L41",
+        "length": 84.87732094900194,
+        "diameter": 38,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S6",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44493898822479, 8.158527053169564],
+          [38.444182926678394, 8.158624671802132]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L42",
+        "length": 94.85077044108876,
+        "diameter": 38,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S6",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44493898822479, 8.158527053169564],
+          [38.445344288016365, 8.158417971714835],
+          [38.445769759410155, 8.158343648401452]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L43",
+        "length": 96.5005390404839,
+        "diameter": 38,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S6",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44529759449186, 8.160355179966842],
+          [38.44614031921946, 8.160154027265964]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L44",
+        "length": 85.04339796134603,
+        "diameter": 38,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S6",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44529759449186, 8.160355179966842],
+          [38.444544521331025, 8.160482379416608]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L45",
+        "length": 96.4299934651621,
+        "diameter": 50,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S1",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44807713103395, 8.16177925156181],
+          [38.447222595068176, 8.161919762078718]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L46",
+        "length": 85.68385309939798,
+        "diameter": 50,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S1",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.447222595068176, 8.161919762078718],
+          [38.44646838347476, 8.162071893710467]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L47",
+        "length": 95.28791643879848,
+        "diameter": 50,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S1",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44646838347476, 8.162071893710467],
+          [38.445627366396046, 8.1622296597859]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L48",
+        "length": 85.63639466543096,
+        "diameter": 50,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S1",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.445627366396046, 8.1622296597859],
+          [38.44487600088411, 8.162393060298363]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L49",
+        "length": 80.34168063870501,
+        "diameter": 25,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S1",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44487600088411, 8.162393060298363],
+          [38.44473938897284, 8.161691564522458]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L50",
+        "length": 89.62265689486017,
+        "diameter": 25,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S1",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44487600088411, 8.162393060298363],
+          [38.44505245793616, 8.16317062044177]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L51",
+        "length": 88.91086832868048,
+        "diameter": 25,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S1",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.445627366396046, 8.1622296597859],
+          [38.445812361692546, 8.16299876851138]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L52",
+        "length": 75.32161401560911,
+        "diameter": 25,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S1",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.445627366396046, 8.1622296597859],
+          [38.44550783097369, 8.161570422556904]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L53",
+        "length": 76.77419341930313,
+        "diameter": 25,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S1",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44646838347476, 8.162071893710467],
+          [38.44635454021538, 8.161398569938115]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L54",
+        "length": 75.06664552580959,
+        "diameter": 25,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S1",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.447222595068176, 8.161919762078718],
+          [38.44710021356435, 8.161263341595943]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L56",
+        "length": 14.383266817944447,
+        "diameter": 25,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S1",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.446925179553034, 8.163959448026029],
+          [38.44694225604194, 8.164086223742466]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L57",
+        "length": 60.70556117910413,
+        "diameter": 25,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S1",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44694225604194, 8.164086223742466],
+          [38.44747731936105, 8.164190461523626]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L58",
+        "length": 40.087983134111695,
+        "diameter": 25,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S1",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44747731936105, 8.164190461523626],
+          [38.44782169522069, 8.16429469927756]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L59",
+        "length": 50.49547907319263,
+        "diameter": 25,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S1",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44782169522069, 8.16429469927756],
+          [38.44779038832436, 8.163846758466523]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L60",
+        "length": 10.532920417517568,
+        "diameter": 25,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S1",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44779038832436, 8.163846758466523],
+          [38.44769789067611, 8.163866479141728]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L61",
+        "length": 225.2284612905296,
+        "diameter": 25,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S1",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44769789067611, 8.163866479141728],
+          [38.447222595068176, 8.161919762078718]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L62",
+        "length": 218.27800353070066,
+        "diameter": 25,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S1",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44646838347476, 8.162071893710467],
+          [38.446925179553034, 8.163959448026029]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L63",
+        "length": 69.14039113230734,
+        "diameter": 25,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S1",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44747731936105, 8.164190461523626],
+          [38.44749653041105, 8.164804970862892]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L64",
+        "length": 28.738604956437072,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S1",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.446925179553034, 8.163959448026029],
+          [38.44667472438239, 8.164021427270203]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L65",
+        "length": 140.75026122607764,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S1",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44749653041105, 8.164804970862892],
+          [38.447453839188796, 8.166055820189595]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L66",
+        "length": 129.47886397250392,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S1",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44505245793616, 8.16317062044177],
+          [38.44533991216609, 8.164286247568803]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L67",
+        "length": 85.3105063180319,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S1",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44533991216609, 8.164286247568803],
+          [38.44609127767804, 8.164136934017774]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L68",
+        "length": 131.70902701275583,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S1",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44609127767804, 8.164136934017774],
+          [38.445812361692546, 8.16299876851138]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L69",
+        "length": 55.72198773041806,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S1",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.444846828548904, 8.162390595204917],
+          [38.444358014053904, 8.162497298521366]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L70",
+        "length": 72.541013423048,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S1",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.444358014053904, 8.162497298521366],
+          [38.44415878834999, 8.161883137788335]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L71",
+        "length": 133.21634748106672,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S1",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44473938897284, 8.161691564522458],
+          [38.44453020198374, 8.160525219421507]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L72",
+        "length": 86.67983376159363,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S1",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44453020198374, 8.160525219421507],
+          [38.44530006702532, 8.160409711629596]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L73",
+        "length": 132.56477161131343,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S1",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44530006702532, 8.160409711629596],
+          [38.44550783097369, 8.161570422556904]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L74",
+        "length": 135.42339640758334,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S1",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44635454021538, 8.161398569938115],
+          [38.44615033386886, 8.160211446652832]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L75",
+        "length": 83.36951267836963,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S1",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44615033386886, 8.160211446652832],
+          [38.446887468973365, 8.160080443807816]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L76",
+        "length": 135.11827490599626,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S1",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.446887468973365, 8.160080443807816],
+          [38.44710021356435, 8.161263341595943]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L77",
+        "length": 132.3249017055681,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S2",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.448233665515545, 8.162558221524272],
+          [38.44851258150104, 8.163702022766888]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L78",
+        "length": 78.8428052636867,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S2",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44851258150104, 8.163702022766888],
+          [38.449201333220316, 8.163538622789915]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L79",
+        "length": 129.61949431883676,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S2",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.449201333220316, 8.163538622789915],
+          [38.44898503102748, 8.16240609007772]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L80",
+        "length": 131.77759967489942,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S2",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44985593196177, 8.16223705506917],
+          [38.4500551576657, 8.163392126201995]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L81",
+        "length": 87.77224533887835,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S2",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.4500551576657, 8.163392126201995],
+          [38.45082025364991, 8.163273094723893],
+          [38.450829291829514, 8.163262533021738]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L82",
+        "length": 131.1530324417376,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S2",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.450829291829514, 8.163262533021738],
+          [38.45063006612559, 8.16211309601743]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L84",
+        "length": 138.16347738986366,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S2",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.448475582441795, 8.15977336170169],
+          [38.44870611504199, 8.160980559263729]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L85",
+        "length": 133.96884598973523,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S2",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.449565631650344, 8.160794620086904],
+          [38.44935786770203, 8.159621229194729]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L86",
+        "length": 87.29933617786418,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S2",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44935786770203, 8.159621229194729],
+          [38.450126309702874, 8.159466279359581]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L87",
+        "length": 135.0811456758052,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S2",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.450126309702874, 8.159466279359581],
+          [38.450121377815684, 8.159489384753279],
+          [38.450362534466045, 8.16064248796877]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L88",
+        "length": 427.02825325114424,
+        "diameter": 50,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S2",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.448121618845036, 8.157891052403906],
+          [38.448822804382914, 8.161624302563567]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L89",
+        "length": 84.8196790286481,
+        "diameter": 50,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S2",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.448822804382914, 8.161624302563567],
+          [38.44809428132714, 8.161776557004433],
+          [38.44807713103395, 8.16177925156181]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L90",
+        "length": 99.47729364456856,
+        "diameter": 50,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S2",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.448822804382914, 8.161624302563567],
+          [38.44969939748018, 8.161452449967946]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L91",
+        "length": 87.50777787683784,
+        "diameter": 50,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S2",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44969939748018, 8.161452449967946],
+          [38.450473531644, 8.161317221644017]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L92",
+        "length": 221.10740117079777,
+        "diameter": 50,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S2",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.448822804382914, 8.161624302563567],
+          [38.449212794660035, 8.163552150739143]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L93",
+        "length": 89.75430058789976,
+        "diameter": 25,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S2",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.448822804382914, 8.161624302563567],
+          [38.44898503102748, 8.16240609007772]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L94",
+        "length": 89.3181988837726,
+        "diameter": 25,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S2",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44807713103395, 8.16177925156181],
+          [38.448233665515545, 8.162558221524272]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L95",
+        "length": 77.71646853649575,
+        "diameter": 25,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S2",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44807713103395, 8.16177925156181],
+          [38.44795474953005, 8.161098884149384]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L96",
+        "length": 73.55051672574515,
+        "diameter": 25,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S2",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.448822804382914, 8.161624302563567],
+          [38.44870611504199, 8.160980559263729]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L97",
+        "length": 75.46224433137793,
+        "diameter": 25,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S2",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44969939748018, 8.161452449967946],
+          [38.449565631650344, 8.160794620086904]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L98",
+        "length": 89.93975682792203,
+        "diameter": 25,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S2",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44969939748018, 8.161452449967946],
+          [38.44985593196177, 8.16223705506917]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L99",
+        "length": 91.18337203153563,
+        "diameter": 25,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S2",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.450473531644, 8.161317221644017],
+          [38.45063006612559, 8.16211309601743]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L100",
+        "length": 76.87888068833396,
+        "diameter": 25,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S2",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.450473531644, 8.161317221644017],
+          [38.450362534466045, 8.16064248796877]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L101",
+        "length": 137.34956419408275,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S2",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44795474953005, 8.161098884149384],
+          [38.447718524766884, 8.159900138746583]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L102",
+        "length": 85.47272502500736,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S2",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.447718524766884, 8.159900138746583],
+          [38.448475582441795, 8.15977336170169]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L103",
+        "length": 35.21741628048835,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S1",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.447222595068176, 8.161919762078718],
+          [38.446909526104875, 8.161964838123795]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L104",
+        "length": 210.59740966942945,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S4",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.4500941894063, 8.163446374193466],
+          [38.450415101779186, 8.165291889634023]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L105",
+        "length": 209.4076474322211,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S4",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45083106215691, 8.163323942494566],
+          [38.451167463008886, 8.165156002103776]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L106",
+        "length": 212.94495168410623,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S4",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45163813448907, 8.163177686199651],
+          [38.45197687532707, 8.165041291814985]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L107",
+        "length": 213.6009572250936,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S4",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45245824388636, 8.163015326207725],
+          [38.45274706502193, 8.16489305077759]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L108",
+        "length": 214.0971615924188,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S4",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.453203473729985, 8.162888261820202],
+          [38.4534744664004, 8.16477304608796]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L109",
+        "length": 91.02215948849215,
+        "diameter": 38,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S4",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45197687532707, 8.165041291814985],
+          [38.451167463008886, 8.165156002103776]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L110",
+        "length": 85.13525096874862,
+        "diameter": 38,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S4",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.451167463008886, 8.165156002103776],
+          [38.450415101779186, 8.165291889634023]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L111",
+        "length": 87.3428896372594,
+        "diameter": 38,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S4",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45197687532707, 8.165041291814985],
+          [38.45274706502193, 8.16489305077759]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L112",
+        "length": 82.09088590006765,
+        "diameter": 38,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S4",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45274706502193, 8.16489305077759],
+          [38.4534744664004, 8.16477304608796]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L113",
+        "length": 93.102141174523,
+        "diameter": 38,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S4",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45163813448907, 8.163177686199651],
+          [38.45245824388636, 8.163015326207725]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L114",
+        "length": 84.18028767030694,
+        "diameter": 38,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S4",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45245824388636, 8.163015326207725],
+          [38.453203473729985, 8.162888261820202]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L115",
+        "length": 91.33605264254776,
+        "diameter": 38,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S4",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45163813448907, 8.163177686199651],
+          [38.45083106215691, 8.163323942494566]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L116",
+        "length": 83.17580676505352,
+        "diameter": 38,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S4",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45083106215691, 8.163323942494566],
+          [38.4500941894063, 8.163446374193466]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L117",
+        "length": 213.03549649713062,
+        "diameter": 38,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S4",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45163813448907, 8.163177686199651],
+          [38.45183135048018, 8.164084783200932],
+          [38.45197687532707, 8.165041291814985]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L118",
+        "length": 208.6023721875227,
+        "diameter": 38,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S4",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.449212794660035, 8.163552150739143],
+          [38.44954551839108, 8.16537759140487]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L119",
+        "length": 98.30125574627344,
+        "diameter": 50,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S4",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.449212794660035, 8.163552150739143],
+          [38.45008137519702, 8.163394533748967]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L120",
+        "length": 3.444678508222906,
+        "diameter": 50,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S4",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45008137519702, 8.163394533748967],
+          [38.45008761515981, 8.163424535028305]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L121",
+        "length": 174.82116998574645,
+        "diameter": 50,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S4",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45008761515981, 8.163424535028305],
+          [38.45163813448907, 8.163177686199651]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L122",
+        "length": 77.05882964664922,
+        "diameter": 25,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S4",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44954551839108, 8.16537759140487],
+          [38.449417376297696, 8.164704219852636]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L123",
+        "length": 83.39805534195712,
+        "diameter": 25,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S4",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44954551839108, 8.16537759140487],
+          [38.44967388334024, 8.166108206527019]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L124",
+        "length": 25.05701461241068,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S4",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44954551839108, 8.16537759140487],
+          [38.44932087973009, 8.16539170958416]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L125",
+        "length": 48.42559817933943,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S4",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44932087973009, 8.16539170958416],
+          [38.44932087973009, 8.165822313812345]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L126",
+        "length": 59.190670748951035,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S4",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44932087973009, 8.165822313812345],
+          [38.44934227388828, 8.166348215067694]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L127",
+        "length": 225.75996853435362,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S4",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.44967388334024, 8.166108206527019],
+          [38.44987356214998, 8.168105920276817]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L128",
+        "length": 74.08862071529175,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S4",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.449417376297696, 8.164704219852636],
+          [38.449286337078796, 8.16405831152775]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L129",
+        "length": 134.95016399252415,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S3",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45142085006985, 8.161947189941797],
+          [38.4516276602657, 8.163129595882829]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L130",
+        "length": 87.58517273658553,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S3",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.4516276602657, 8.163129595882829],
+          [38.4524014156536, 8.162988413267913]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L131",
+        "length": 136.71094209831472,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S3",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.4524014156536, 8.162988413267913],
+          [38.45220530253684, 8.161788359026364]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L132",
+        "length": 137.71679950225445,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S3",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.453007583468974, 8.161625998469763],
+          [38.45323578782302, 8.162829582766472]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L133",
+        "length": 22.007316784962278,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S3",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45323578782302, 8.162829582766472],
+          [38.45343190093976, 8.162804875793904]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L134",
+        "length": 60.266904949015576,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S3",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45343190093976, 8.162804875793904],
+          [38.45395605781542, 8.162938999340906]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L135",
+        "length": 165.93430528233858,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S3",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45395605781542, 8.162938999340906],
+          [38.45374924761958, 8.161477756164789]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L136",
+        "length": 88.43639887278967,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S3",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45395605781542, 8.162938999340906],
+          [38.45473337889635, 8.162776639251959]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L137",
+        "length": 160.71397954231162,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S3",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45473337889635, 8.162776639251959],
+          [38.45453370008656, 8.161361280029455]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L139",
+        "length": 76.6241599328902,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S3",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45255117476091, 8.158936450954936],
+          [38.453232222129984, 8.158837622092507]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L140",
+        "length": 138.49711614454583,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S3",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.453232222129984, 8.158837622092507],
+          [38.45346042648401, 8.160048273973029]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L141",
+        "length": 134.98693523432354,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S3",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.4511783829437, 8.160464765608724],
+          [38.45095017858967, 8.159285881379661]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L142",
+        "length": 80.39790854296704,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S3",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45095017858967, 8.159285881379661],
+          [38.45166688288905, 8.159197641402251]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L143",
+        "length": 129.1588532921361,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S3",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45166688288905, 8.159197641402251],
+          [38.45187725877791, 8.160327111641573]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L144",
+        "length": 245.33105658892606,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S3",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.453232222129984, 8.158837622092507],
+          [38.452950532380456, 8.15667396980187]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L145",
+        "length": 67.85549031447269,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S3",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.452950532380456, 8.15667396980187],
+          [38.45355670019585, 8.156610436604923]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L146",
+        "length": 78.3926425712176,
+        "diameter": 25,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S3",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45131031358587, 8.161149505150911],
+          [38.4511783829437, 8.160464765608724]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L147",
+        "length": 90.54642102295732,
+        "diameter": 25,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S3",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45131031358587, 8.161149505150911],
+          [38.45142085006985, 8.161947189941797]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L148",
+        "length": 90.53598018584877,
+        "diameter": 25,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S3",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45205197773647, 8.160997733085575],
+          [38.45220530253684, 8.161788359026364]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L149",
+        "length": 77.88452368718406,
+        "diameter": 25,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S3",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45205197773647, 8.160997733085575],
+          [38.45187725877791, 8.160327111641573]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L153",
+        "length": 88.29554384083185,
+        "diameter": 25,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S3",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45286852144074, 8.160853020132377],
+          [38.453007583468974, 8.161625998469763]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L154",
+        "length": 87.0302624028914,
+        "diameter": 25,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S3",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45359592281921, 8.160718895885044],
+          [38.45374924761958, 8.161477756164789]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L155",
+        "length": 76.91046444965458,
+        "diameter": 25,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S3",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45359592281921, 8.160718895885044],
+          [38.45346042648401, 8.160048273973029]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L156",
+        "length": 88.09457043023683,
+        "diameter": 25,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S3",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45440533513743, 8.1605883011799],
+          [38.45453370008656, 8.161361280029455]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L157",
+        "length": 95.04046910347154,
+        "diameter": 50,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S3",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.450473531644, 8.161317221644017],
+          [38.45131031358587, 8.161149505150911]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L158",
+        "length": 84.30746242404399,
+        "diameter": 50,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S3",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45131031358587, 8.161149505150911],
+          [38.45205197773647, 8.160997733085575]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L159",
+        "length": 92.34259648615773,
+        "diameter": 50,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S3",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45205197773647, 8.160997733085575],
+          [38.45286852144074, 8.160853020132377]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L160",
+        "length": 82.36679666697637,
+        "diameter": 50,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S3",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45286852144074, 8.160853020132377],
+          [38.45359592281921, 8.160718895885044]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L161",
+        "length": 91.29243470012707,
+        "diameter": 50,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S3",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45359592281921, 8.160718895885044],
+          [38.45440533513743, 8.1605883011799]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L162",
+        "length": 136.45211316179558,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S3",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45274372218461, 8.160134748966998],
+          [38.45255117476091, 8.158936450954936]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L163",
+        "length": 81.96147328393282,
+        "diameter": 25,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S3",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45286852144074, 8.160853020132377],
+          [38.45274372218461, 8.160134748966998]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L164",
+        "length": 166.36529250402825,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S5",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45785870883866, 8.161974544148638],
+          [38.45639677469565, 8.162281617051727]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L165",
+        "length": 258.1126905621927,
+        "diameter": 21,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S5",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.459208323651154, 8.159612369126657],
+          [38.46144044748901, 8.158991159778973]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L166",
+        "length": 264.1927818561581,
+        "diameter": 38,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S5",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45689775456658, 8.160148867331587],
+          [38.459208323651154, 8.159612369126657]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L167",
+        "length": 275.91168123974046,
+        "diameter": 38,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S5",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.456453825784166, 8.166993568199343],
+          [38.457045730827424, 8.169375994242953]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L168",
+        "length": 184.13497911486465,
+        "diameter": 38,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S5",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.457045730827424, 8.169375994242953],
+          [38.45868594962202, 8.169164223614903]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L169",
+        "length": 231.50914734140926,
+        "diameter": 50,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S5",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45689775456658, 8.160148867331587],
+          [38.45785870883866, 8.161974544148638]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L170",
+        "length": 271.99370981557723,
+        "diameter": 50,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S5",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45785870883866, 8.161974544148638],
+          [38.4587857890269, 8.164212288402215]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L171",
+        "length": 393.5367503839593,
+        "diameter": 50,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S5",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.4587857890269, 8.164212288402215],
+          [38.455401946339784, 8.165225269454517]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L172",
+        "length": 70.6548565715982,
+        "diameter": 50,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S5",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.455401946339784, 8.165225269454517],
+          [38.45577990980114, 8.16572999424617]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L173",
+        "length": 65.51408165812713,
+        "diameter": 50,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S5",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45577990980114, 8.16572999424617],
+          [38.45627554113255, 8.166044123339868]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L174",
+        "length": 108.60328840395711,
+        "diameter": 50,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S5",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45627554113255, 8.166044123339868],
+          [38.456453825784166, 8.166993568199343]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L175",
+        "length": 281.82145356662227,
+        "diameter": 50,
+        "status": "Open",
+        "roughness": 150,
+        "minor_loss": 0,
+        "material": "Plastic",
+        "descriptio": "S5",
+        "tag": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.45440533513743, 8.1605883011799],
+          [38.45689775456658, 8.160148867331587]
+        ]
+      }
+    }
+  ]
 }
